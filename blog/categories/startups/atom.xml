@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Startups | Homepage of David Fisher/tibbon]]></title>
+  <link href="http://tibbon.github.io/blog/categories/startups/atom.xml" rel="self"/>
+  <link href="http://tibbon.github.io/"/>
+  <updated>2013-12-26T17:30:52-05:00</updated>
+  <id>http://tibbon.github.io/</id>
+  <author>
+    <name><![CDATA[David Fisher]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Modern E-Commerce Isn't Enough]]></title>
+    <link href="http://tibbon.github.io/blog/2010/10/12/modern-e-commerce-isnt-enough/"/>
+    <updated>2010-10-12T12:20:00-04:00</updated>
+    <id>http://tibbon.github.io/blog/2010/10/12/modern-e-commerce-isnt-enough</id>
+    <content type="html"><![CDATA[<p>We are reaching a time in the development of the internet that one could assume that everything that is obvious, monetizable and useful has been developed, patented and tested. Yet there are still several basic problems to be solved, with riches going to those that solve them.</p>
+
+<p>One such problem is shopping. Amazon takes the cake for selling everything, or alternatively with a quick Google search you can find a vendor for practically every product. What is missing?</p>
+
+<p>This evening, I realized that I didn&rsquo;t have a copy of <a href="http://www.amazon.com/gp/product/1430210788?ie=UTF8&amp;tag=wha07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1430210788">Jessica Livingston&rsquo;s Founders at Work</a> on my bookshelf which I wanted to re-read for an upcoming project of mine. Like many 20-somethings, I am impatient. I want it now. Sure, Amazon could have it here tomorrow, but that isn&rsquo;t really now and tomorrow is a busy day.</p>
+
+<p>Google is my go-to search engine and yet the primary search and the Google Shopping return no useful local results.</p>
+
+<p>Of course, I know that this is a book. And books are generally to be had at local bookstores. Yet, searching the Borders and Barnes and Noble sites show that all local stores are out of stock.</p>
+
+<p>There are local bookstores, but I&rsquo;ve just moved to town and I don&rsquo;t know them well. Mom and pop stores are unlikely to have great online inventory systems, and the effort in searching and calling all of them seems prohibitive. I really just want to drive there and get it &ndash; now. Plus, its almost 7PM and many non-chain stores will be closing shortly. Also, search engines do not generally indicate if the store holding what you want it currently open.</p>
+
+<p><em>This is a search problem that the internet fails at completely</em>. An eBook could seem to be the answer, but as we&rsquo;ll see that doesn&rsquo;t work for every product.</p>
+
+<p>Or let&rsquo;s say I&rsquo;m in midtown Manhattan. I&rsquo;ve got an hour until a job interview. I hop into a Starbucks and get a coffee. Unfortunately I trip on the sidewalk and manage to spill coffee all over my pressed white dress shirt. No time for dry cleaning- I need another shirt. Clothes are abundant in New York. It just so happens that I&rsquo;m interviewing at the intern level and money is tight. I really can&rsquo;t spend more than $30 on a plain white dress shirt. Having something that vaguely fits would be nice too, and I&rsquo;m a very small (or large) person, and I find that many stores don&rsquo;t have my size.</p>
+
+<p>Pulling out my phone and Googling for &ldquo;<a href="http://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=White+dress+shirt+NYC+$30">White dress shirt NYC $30</a>&rdquo; doesn&rsquo;t yield anything useful, nor does it take into account my real location, my price range, sizing, or availability. Calling places won&rsquo;t be helpful, as stores that stock cheaper clothing in NYC aren&rsquo;t always great about customer service on the phone. What do you do?</p>
+
+<p>Even a simple query of &ldquo;<a href="http://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=cheapest+bottle+of+aquafina+water+within+3+blocks">cheapest bottle of aquafina water within 3 blocks</a>&rdquo; isn&rsquo;t something we can currently do on the internet.</p>
+
+<p>In essence, someone needs to get smart about combining search, location, and inventory systems and put it online and easily accessible via mobile.</p>
+
+<p>The difficult part is getting the information from merchants and keeping it up to date. Thousands of merchants in the US still accept cash only, use mechanical cash registers and manual inventory systems making a software solution is difficult at best. In working with merchants it is important to stress that such a system would increase competition, make sales more effective, and blur the line between online commerce and main street commerce.</p>
+
+<p>I&rsquo;m confident that if someone tackles this problem and overcomes its challenges they will change the face of business forever.</p>
+
+<p>UPDATE 1: It seems that a site called <a href="http://milo.com/">Milo</a> is already doing this to a degree. It seems to only be big-box stores, and for many it has me call them to verify the inventory, but it seems to be a start. They&rsquo;ve got the interface right, but the part about getting small businesses onboard is still the hard part and unsolved by Milo or others from what I&rsquo;ve seen on a level that really makes it worth it.</p>
+]]></content>
+  </entry>
+  
+</feed>
