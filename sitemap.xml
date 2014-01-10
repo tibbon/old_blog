@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://tibbon.github.io/blog/2008/02/19/early-computer-memories/</loc>
+        <lastmod>2014-01-10T12:37:19-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tibbon.github.io/blog/2008/04/04/thank-you-gary-gygax/</loc>
+        <lastmod>2014-01-10T12:39:35-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://tibbon.github.io/blog/2010/10/12/modern-e-commerce-isnt-enough/</loc>
         <lastmod>2013-12-26T15:55:33-05:00</lastmod>
     </url>
@@ -14,11 +22,11 @@
     </url>
     <url>
         <loc>http://tibbon.github.io/blog/archives/</loc>
-        <lastmod>2013-12-26T15:59:20-05:00</lastmod>
+        <lastmod>2014-01-10T12:39:35-05:00</lastmod>
     </url>
     <url>
         <loc>http://tibbon.github.io/</loc>
-        <lastmod>2013-12-26T15:59:20-05:00</lastmod>
+        <lastmod>2014-01-10T12:39:35-05:00</lastmod>
     </url>
     <url>
         <loc>http://tibbon.github.io/robots.txt</loc>
