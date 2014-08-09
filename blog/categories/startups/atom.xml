@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Startups | Homepage of David Fisher/tibbon]]></title>
+  <title><![CDATA[Category: Startups, | Homepage of David Fisher/tibbon]]></title>
   <link href="http://tibbon.github.io/blog/categories/startups/atom.xml" rel="self"/>
   <link href="http://tibbon.github.io/"/>
-  <updated>2014-01-10T12:44:13-05:00</updated>
+  <updated>2014-08-09T15:07:04-07:00</updated>
   <id>http://tibbon.github.io/</id>
   <author>
     <name><![CDATA[David Fisher]]></name>
@@ -14,37 +14,83 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Modern E-Commerce Isn't Enough]]></title>
-    <link href="http://tibbon.github.io/blog/2010/10/12/modern-e-commerce-isnt-enough/"/>
-    <updated>2010-10-12T12:20:00-04:00</updated>
-    <id>http://tibbon.github.io/blog/2010/10/12/modern-e-commerce-isnt-enough</id>
-    <content type="html"><![CDATA[<p>We are reaching a time in the development of the internet that one could assume that everything that is obvious, monetizable and useful has been developed, patented and tested. Yet there are still several basic problems to be solved, with riches going to those that solve them.</p>
+    <title type="html"><![CDATA[How to Find Your First Programming Job]]></title>
+    <link href="http://tibbon.github.io/blog/2013/02/18/how-to-find-your-first-programming-job/"/>
+    <updated>2013-02-18T10:43:00-08:00</updated>
+    <id>http://tibbon.github.io/blog/2013/02/18/how-to-find-your-first-programming-job</id>
+    <content type="html"><![CDATA[<p>So you&rsquo;ve been spending time learning to code, either through teaching yourself or a more formal program, and you&rsquo;d like to get your first job but you don&rsquo;t know where to start. Here&rsquo;s my advice for how to stand out from the pack.</p>
 
-<p>One such problem is shopping. Amazon takes the cake for selling everything, or alternatively with a quick Google search you can find a vendor for practically every product. What is missing?</p>
+<h3>Put together your resume</h3>
 
-<p>This evening, I realized that I didn&rsquo;t have a copy of <a href="http://www.amazon.com/gp/product/1430210788?ie=UTF8&amp;tag=wha07-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1430210788">Jessica Livingston&rsquo;s Founders at Work</a> on my bookshelf which I wanted to re-read for an upcoming project of mine. Like many 20-somethings, I am impatient. I want it now. Sure, Amazon could have it here tomorrow, but that isn&rsquo;t really now and tomorrow is a busy day.</p>
+<p>I worked as a headhunter for a while hiring legal staff. After seeing thousands of resumes, I realized that most people have no idea how to put together a decent resume. There are countless blog posts online describing how to write better resumes and I won&rsquo;t attempt to replicate those. But here&rsquo;s a few tips:</p>
 
-<p>Google is my go-to search engine and yet the primary search and the Google Shopping return no useful local results.</p>
+<ul>
+<li>Make it a single page unless you&rsquo;ve got a PhD or over 10 years experience. Since this is your first programming gig, make it a single page.</li>
+<li>Whitespace is awesome. Choose your fonts wisely. This isn&rsquo;t a good time to use Comic Sans.</li>
+<li>The templates that Word or whatever give you are terrible and encourage overly crowded resumes. I&rsquo;ve seen too many of these.</li>
+<li>Less fluff, more content. I want to know what you can do and how long you&rsquo;ve been doing it.</li>
+<li>Less is more. I&rsquo;m going to glance at your resume for 15 seconds on first pass. If there is too much stuff, I might miss the important parts.</li>
+<li>Skip personal statements as they are always fluff.</li>
+<li>Make sure your contact information is on there. Just phone &amp; email. Address is optional- I don&rsquo;t put one on mine.</li>
+<li>Listing Microsoft Office as a skill never helps anyone. Think about what real unique skills matter and list those.</li>
+<li>Send your resume as a PDF. They view well on almost all devices and retain formatting very well.</li>
+<li>If you know a foreign language well, you should definitely list it.</li>
+</ul>
 
-<p>Of course, I know that this is a book. And books are generally to be had at local bookstores. Yet, searching the Borders and Barnes and Noble sites show that all local stores are out of stock.</p>
 
-<p>There are local bookstores, but I&rsquo;ve just moved to town and I don&rsquo;t know them well. Mom and pop stores are unlikely to have great online inventory systems, and the effort in searching and calling all of them seems prohibitive. I really just want to drive there and get it &ndash; now. Plus, its almost 7PM and many non-chain stores will be closing shortly. Also, search engines do not generally indicate if the store holding what you want it currently open.</p>
+<p>Things that turn me off when reading a resume:</p>
 
-<p><em>This is a search problem that the internet fails at completely</em>. An eBook could seem to be the answer, but as we&rsquo;ll see that doesn&rsquo;t work for every product.</p>
+<ul>
+<li>Huge lists of acronyms. I saw a resume that had the following list: IGMP, RTP, RTCP, DHCP, NTP, NAT, SNMP, SONET (EoS), ATM, MPLS, BGP, RIP, WDM. Those are great things to know, but even as someone who understands those&hellip; it isn&rsquo;t good to read.</li>
+<li>No whitespace. Everything crammed together.</li>
+<li>Non-relevant jobs. The grocery store you worked at when you were 16 isn&rsquo;t interesting.</li>
+<li>I personally don&rsquo;t care about your GPA. I&rsquo;m not going to call the University and check up on this, so you could have put anything. Or maybe you took easy classes. Who knows?</li>
+<li>I know that you&rsquo;ll give me references if I ask for them. You don&rsquo;t have to put that you have them on your resume.</li>
+<li>I probably care less about your education than you do. Some of the best and brightest people in the industry were more of the &ldquo;Turn on, tune in, drop out&rdquo; people. Dedicating 6 lines to this probably isn&rsquo;t helpful.</li>
+</ul>
 
-<p>Or let&rsquo;s say I&rsquo;m in midtown Manhattan. I&rsquo;ve got an hour until a job interview. I hop into a Starbucks and get a coffee. Unfortunately I trip on the sidewalk and manage to spill coffee all over my pressed white dress shirt. No time for dry cleaning- I need another shirt. Clothes are abundant in New York. It just so happens that I&rsquo;m interviewing at the intern level and money is tight. I really can&rsquo;t spend more than $30 on a plain white dress shirt. Having something that vaguely fits would be nice too, and I&rsquo;m a very small (or large) person, and I find that many stores don&rsquo;t have my size.</p>
 
-<p>Pulling out my phone and Googling for &ldquo;<a href="http://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=White+dress+shirt+NYC+$30">White dress shirt NYC $30</a>&rdquo; doesn&rsquo;t yield anything useful, nor does it take into account my real location, my price range, sizing, or availability. Calling places won&rsquo;t be helpful, as stores that stock cheaper clothing in NYC aren&rsquo;t always great about customer service on the phone. What do you do?</p>
+<p>My <a href="http://tibbon.github.com/assets/David_Fisher_Resume_2012_online.pdf">personal resume</a> is a bit non-standard, but it gets amazingly fast responses from potential employers and clients.</p>
 
-<p>Even a simple query of &ldquo;<a href="http://www.google.com/search?sourceid=chrome&amp;ie=UTF-8&amp;q=cheapest+bottle+of+aquafina+water+within+3+blocks">cheapest bottle of aquafina water within 3 blocks</a>&rdquo; isn&rsquo;t something we can currently do on the internet.</p>
+<h3>Cover letters, meh</h3>
 
-<p>In essence, someone needs to get smart about combining search, location, and inventory systems and put it online and easily accessible via mobile.</p>
+<p>I don&rsquo;t like cover letters. You&rsquo;re sending me a resume. I know you&rsquo;re interested, and I just need you to confirm which position you were looking at and maybe your general availability. Anyone can write that they are a responsible team member who will contribute a lot to the organization. I skim the cover letter, if I read it at all. Probably the most important thing you can say in a cover letter (since it doesn&rsquo;t fit elsewhere) is if someone that both of us know has referred you to the position.</p>
 
-<p>The difficult part is getting the information from merchants and keeping it up to date. Thousands of merchants in the US still accept cash only, use mechanical cash registers and manual inventory systems making a software solution is difficult at best. In working with merchants it is important to stress that such a system would increase competition, make sales more effective, and blur the line between online commerce and main street commerce.</p>
+<h3>Get on LinkedIn</h3>
 
-<p>I&rsquo;m confident that if someone tackles this problem and overcomes its challenges they will change the face of business forever.</p>
+<p>I&rsquo;m not in love with <a href="http://linkedin.com">LinkedIn</a> either to be quite honest with you, but it can be pretty useful for job-hunting. The main thing I use LinkedIn for when hiring is finding out who in our network we have in common. If you&rsquo;re in my city and we have zero 3rd degree connections, I&rsquo;m wondering why you&rsquo;re not in the development community more (meetups, etc). If we have connections, then I can ask them about you. LinkedIn is a nice place to also have other more filler-like stuff that clearly doesn&rsquo;t fit on the resume. You can put stuff about your interests, group memberships, papers you&rsquo;ve authored, leave every prior job you&rsquo;ve ever had on there, etc&hellip;</p>
 
-<p>UPDATE 1: It seems that a site called <a href="http://milo.com/">Milo</a> is already doing this to a degree. It seems to only be big-box stores, and for many it has me call them to verify the inventory, but it seems to be a start. They&rsquo;ve got the interface right, but the part about getting small businesses onboard is still the hard part and unsolved by Milo or others from what I&rsquo;ve seen on a level that really makes it worth it.</p>
+<h3>Github is your real resume</h3>
+
+<p><a href="https://github.com">Github</a> allows me to read your code. With this, I can realistically see what languages you&rsquo;re comfortable in, your coding style, if you write tests every time, contributions to the open source community, how well you document things, and how well you work with others. This is far more valuable than anything you list on your resume, which I largely have to take your word for. It is an amazing tool, and for the most part its free!</p>
+
+<h3>Projects</h3>
+
+<p>Having projects shows me that you&rsquo;re creative, driven and can ship code. They don&rsquo;t have to be huge or earthshaking, but if they are that doesn&rsquo;t hurt. So make a site that shows a different Harlem Shake video every hour, or tracks how many licks on average it takes to get to the middle of a toostie roll. Having a project (or ten) that you&rsquo;ve created and I can see is probably of similar weight to seeing Harvard on your resume.</p>
+
+<p>In fact, I&rsquo;d rather hire someone who is self-taught, contributes a ton on Github, and has lots of cool side projects than someone who just has a nice cover letter and a piece of paper from Harvard and nothing else.</p>
+
+<h3>Network, network, network</h3>
+
+<p>A mediocre developer who networks nonstop will probably have more job offers than an amazing developer that no one knows about. Get on Meetup or a similar site and find out what is happening in your area. Most events are free, and if you&rsquo;re totally strapped for cash and its a paid event let the organizer know that you&rsquo;re looking for your first job and they will probably let you in for free.</p>
+
+<h3>On Recruiters</h3>
+
+<p>Non-corporate recruiters (headhunters) are a mixed bag. If you get an hourly job through them and you&rsquo;re getting $15/hr, they are probably charging the company $28/hr. If you get a job offer for $80k, they will want a $20k check from the company for placing you. As you can see, this significantly increases the cost of hiring you and makes you less competitive vs someone who was going directly to the company.</p>
+
+<p>Also, many headhunters are filling jobs that they are having a difficult time finding talent for. Sometimes this is because they can&rsquo;t find someone with a specific skillset (but you&rsquo;re new to this, so probably don&rsquo;t have a terribly unique skill) or the company is boring. This isn&rsquo;t to say that you should never use a recruiter, but know that 90% of them will be a waste of your time.</p>
+
+<p>Instead of talking to recruiters, network.</p>
+
+<h3>Interview time</h3>
+
+<p>Don&rsquo;t be afraid to say you don&rsquo;t know. It is far better to admit that you&rsquo;re new to this, and that you&rsquo;re willing to learn than trying to fake it. If we&rsquo;re at the interview stage, then a good portion of what I&rsquo;m sizing up is if you fit overall with the company. The above items already mostly validated your skills for me. Find out if the company is the right fit for you, asking appropriate questions to find out if it is a good match. Express why you&rsquo;re passionate about coding, and what challenges you enjoy.</p>
+
+<h3>Summary</h3>
+
+<p>When I&rsquo;m hiring a developer, new or experienced, it comes down to just a few things. I want to find someone who is interesting (projects), capable (already knows or is willing to learn), and likable (interview time). It is worth noting that I am not every hiring manager, and some care about things that I don&rsquo;t care about- you can&rsquo;t please everyone.</p>
+
+<p>For you, even if this is your first job, the good news is that there are a ton of jobs out there for developers in almost every medium-sized and larger city. And there are plenty of companies that will accept remote work, but I wouldn&rsquo;t suggest doing that for your first job.</p>
 ]]></content>
   </entry>
   
